@@ -1,0 +1,4 @@
+<VirtualHost *:443>
+  ServerName example.com
+  Redirect / https://www.example.com
+</VirtualHost>
